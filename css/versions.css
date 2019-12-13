@@ -52,12 +52,12 @@ body.barber_version .nav-pills > li.active > a,
 body.barber_version .nav-pills > li.active > a:focus,
 body.barber_version .nav-pills > li.active > a:hover,
 body.barber_version .icon-wrapper:hover i{
-    color: #ffffff;
+    color: #ffcc00;
     background: #bb9d52;   
 }
 
 body.barber_version .grd1 {
-	color: #ffffff;
+	color: #ffcc00;
     background: #111111;
 }
 
@@ -477,7 +477,7 @@ body.building_version .header_style_01 .navbar-default .navbar-nav > li.active a
 body.building_version .header_style_01 .navbar-default .navbar-nav > li:hover a,
 body.building_version .header_style_01 .navbar-default .navbar-nav > li:focus a,
 body.building_version .header_style_01 .navbar-default .navbar-nav > li:active a {
-    color: #fcdb08 !important;
+    color: #ffcc00 !important;
 }
 
 body.building_version .first-section {
